@@ -27,3 +27,13 @@ C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMass
 C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.dll
 C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.pdb
+G:\ValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.deps.json
+G:\ValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.dll
+G:\ValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.pdb
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.csproj.AssemblyReference.cache
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.GeneratedMSBuildEditorConfig.editorconfig
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.AssemblyInfoInputs.cache
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.AssemblyInfo.cs
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.csproj.CoreCompileInputs.cache
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.dll
+G:\ValidationForMassTransit\obj\Debug\netstandard2.0\FluentValidationForMassTransit.pdb

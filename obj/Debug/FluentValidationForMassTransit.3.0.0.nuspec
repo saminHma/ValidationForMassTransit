@@ -28,9 +28,9 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\net6.0\FluentValidationForMassTransit.dll" target="lib\net6.0\FluentValidationForMassTransit.dll" />
-    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.dll" target="lib\netstandard2.0\FluentValidationForMassTransit.dll" />
-    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\netstandard2.1\FluentValidationForMassTransit.dll" target="lib\netstandard2.1\FluentValidationForMassTransit.dll" />
-    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\README.md" target="\README.md" />
+    <file src="G:\ValidationForMassTransit\bin\Debug\net6.0\FluentValidationForMassTransit.dll" target="lib\net6.0\FluentValidationForMassTransit.dll" />
+    <file src="G:\ValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.dll" target="lib\netstandard2.0\FluentValidationForMassTransit.dll" />
+    <file src="G:\ValidationForMassTransit\bin\Debug\netstandard2.1\FluentValidationForMassTransit.dll" target="lib\netstandard2.1\FluentValidationForMassTransit.dll" />
+    <file src="G:\ValidationForMassTransit\README.md" target="\README.md" />
   </files>
 </package>

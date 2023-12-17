@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Downloads\\FluentValidationForMassTransit\\FluentValidationForMassTransit\\FluentValidationForMassTransit.csproj": {}
+    "G:\\ValidationForMassTransit\\FluentValidationForMassTransit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Downloads\\FluentValidationForMassTransit\\FluentValidationForMassTransit\\FluentValidationForMassTransit.csproj": {
+    "G:\\ValidationForMassTransit\\FluentValidationForMassTransit.csproj": {
       "version": "3.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\FluentValidationForMassTransit\\FluentValidationForMassTransit\\FluentValidationForMassTransit.csproj",
+        "projectUniqueName": "G:\\ValidationForMassTransit\\FluentValidationForMassTransit.csproj",
         "projectName": "FluentValidationForMassTransit",
-        "projectPath": "C:\\Users\\Lenovo\\Downloads\\FluentValidationForMassTransit\\FluentValidationForMassTransit\\FluentValidationForMassTransit.csproj",
+        "projectPath": "G:\\ValidationForMassTransit\\FluentValidationForMassTransit.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Downloads\\FluentValidationForMassTransit\\FluentValidationForMassTransit\\obj\\",
+        "outputPath": "G:\\ValidationForMassTransit\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
