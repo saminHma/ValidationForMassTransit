@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FluentValidationForMassTransit</id>
+    <version>3.0.0</version>
+    <authors>Benjamin Charlton</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/BenjaminCharlton/FluentValidationForMassTransit</projectUrl>
+    <description>Allows functionality from the FluentValidation libraries to used in a MassTransit (GreenPipes) pipeline.</description>
+    <releaseNotes>Upgraded to MassTransit 8.0</releaseNotes>
+    <tags>GreenPipes MassTransit FluentValidation validation validators pipeline pipe</tags>
+    <repository url="https://github.com/BenjaminCharlton/FluentValidationForMassTransit" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="FluentValidation" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="MassTransit" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="FluentValidation" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="MassTransit" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="FluentValidation" version="11.1.0" exclude="Build,Analyzers" />
+        <dependency id="MassTransit" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\net6.0\FluentValidationForMassTransit.dll" target="lib\net6.0\FluentValidationForMassTransit.dll" />
+    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\netstandard2.0\FluentValidationForMassTransit.dll" target="lib\netstandard2.0\FluentValidationForMassTransit.dll" />
+    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\bin\Debug\netstandard2.1\FluentValidationForMassTransit.dll" target="lib\netstandard2.1\FluentValidationForMassTransit.dll" />
+    <file src="C:\Users\Lenovo\Downloads\FluentValidationForMassTransit\FluentValidationForMassTransit\README.md" target="\README.md" />
+  </files>
+</package>
