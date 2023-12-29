@@ -5,17 +5,18 @@
 		<Nullable>enable</Nullable>
 		<TargetFrameworks>net6.0;netstandard2.1;netstandard2.0</TargetFrameworks>
 		<LangVersion>latest</LangVersion>
-		<PackageTags>GreenPipes MassTransit FluentValidation validation validators pipeline pipe</PackageTags>
-		<PackageProjectUrl>https://github.com/BenjaminCharlton/FluentValidationForMassTransit</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/BenjaminCharlton/FluentValidationForMassTransit</RepositoryUrl>
+		<PackageTags>Validation For MassTransit</PackageTags>
+		<PackageProjectUrl>https://github.com/saminHma/ValidationForMassTransit</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/saminHma/ValidationForMassTransit</RepositoryUrl>
 		<Description>Allows functionality from the FluentValidation libraries to used in a MassTransit (GreenPipes) pipeline.</Description>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<Authors>Benjamin Charlton</Authors>
-		<Version>3.0.0</Version>
+		<Authors>saminHma</Authors>
+		<Version>1.0.1</Version>
 		<PackageReleaseNotes>Upgraded to MassTransit 8.0</PackageReleaseNotes>
 		<Company>Energetic Apps</Company>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageId>hma.ValidationForMasstranssit</PackageId>
 	</PropertyGroup>
 
 	<ItemGroup>
