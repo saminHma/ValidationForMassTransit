@@ -16,7 +16,7 @@
 		<PackageReleaseNotes>Upgraded to MassTransit 8.0</PackageReleaseNotes>
 		<Company>Energetic Apps</Company>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<PackageId>hma.ValidationForMasstranssit</PackageId>
+		<PackageId>saminHma.ValidationForMasstranssit</PackageId>
 	</PropertyGroup>
 
 	<ItemGroup>
