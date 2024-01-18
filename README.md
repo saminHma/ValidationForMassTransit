@@ -8,7 +8,7 @@ This library provides a powerful validation mechanism for MassTransit, leveragin
 - Solve the issue of having to set validation for all events declared in the statemachine.
 
 ### Installation
-To use this library, simply add it to your project's dependencies and you can see my project that use this libarary for validation in the [[documentation link](https://github.com/saminHma/MassTransitSign/blob/master/Validation)]. 
+To use this library, simply add it to your project's dependencies and you can see my project that use this libarary for validation in the [[project link](https://github.com/saminHma/MassTransitSign/blob/master/Validation)]. 
 
 ### Usage
 Below is an example of how to use the library for validating in project:
